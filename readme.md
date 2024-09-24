@@ -23,8 +23,7 @@ Content Filters: The AI is equipped with basic content filters that block only h
 Memory Constraints: Ro-Se.AI can only remember the current conversation. If it resets, any previous discussions will be lost. I'm actively working on improving this feature for future updates.
 
 # Licese & ToS
-User License - [MIT]()
-ToS - [ToS]()
-
+[User License & ToS](https://raw.githubusercontent.com/Mu-rpy/ro-se.ai/refs/heads/main/tos.info?token=GHSAT0AAAAAACX6AY6FSHXB5L4K3PTVXQIAZXSZMKA)
+[Discord ToS](https://discord.com/terms)
 
 Ok thats all bozo...
