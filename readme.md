@@ -26,4 +26,4 @@ Memory Constraints: Ro-Se.AI can only remember the current conversation. If it r
 [User License & ToS](https://raw.githubusercontent.com/Mu-rpy/ro-se.ai/refs/heads/main/tos.info?token=GHSAT0AAAAAACX6AY6FSHXB5L4K3PTVXQIAZXSZMKA)
 [Discord ToS](https://discord.com/terms)
 
-Ok thats all bozo...
+Ok thats all bozo... I just added this here because i needed these stuff to get the bot verified, im not gonna post my source code :P
