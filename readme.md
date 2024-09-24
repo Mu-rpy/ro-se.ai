@@ -1,9 +1,9 @@
-## About Ro-Se.AI
+# About Ro-Se.AI
 
 Welcome to Ro-Se.AI! This innovative AI combines the best features of OpenAI's ChatGPT and Gemini, creating a unique conversational partner designed for engaging and entertaining interactions.
 
 
-# Key Features
+## Key Features
 - Discord Integration: Ro-Se.AI can chat with you via Discord and even join video calls, making conversations feel more personal and interactive.
 
 - Text-to-Speech: Utilizing a free text-to-speech API, Ro-Se.AI can "speak" to you, adding a fun audio dimension to your chats.
